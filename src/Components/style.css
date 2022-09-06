@@ -1,0 +1,84 @@
+/* form.css */
+@media screen and (max-width: 500px) {
+    .SignIn-Modal {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1000px) and (min-width: 500px) {
+    .SignUp-modal, .PasswordShow-eye {
+        width: 100%;
+    }
+}
+form {
+    margin: 20px;
+  }
+  
+  .btn-update {
+    margin: 10px;
+  }
+  
+  .btn-submit {
+    margin: 10px;
+  }
+
+.SignUp-Modal {
+    width: 30%;
+    margin: auto;
+    border: 2px solid gray;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+h2 {
+    background-color: skyblue;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px 10px 0 0;
+}
+
+Form Button {
+    margin: 10px;
+}
+
+.SignIn-Modal {
+    width: 30%;
+    margin: auto;
+    border: 2px solid gray;
+    border-radius: 10px;
+}
+
+.SignUp-btn {
+    margin-left: 20px;
+}
+.PasswordShow-eye{
+    margin: -32px 0px 0px 340px;
+
+}
+.Re-PasswordShow-eye{
+    margin: 0px 0px 10px 10px;
+}
+
+/* Table.css */
+.btn-update {
+    margin: 10px;
+}
+
+.btn-submit {
+    margin: 10px;
+}
+
+Table {
+    display: block;
+}
+
+Table thead tr th {
+    width: 30%;
+}
+
+.ActionTag {
+    text-align: center;
+}
+
+/* Navbar.css */
